@@ -1,0 +1,11 @@
+project: "test/uuid-generator"
+repository: "github.com/sheshankyadav8/uuid-generator"
+cloneURL: "https://github.com/sheshankyadav8/uuid-generator.git"
+# Used by GitHub to compute hooks.
+# MAKE SURE YOU CHANGE THIS. It's basically a password.
+sharedSecret: "Hitmanabd@8"
+# Use this to have Brigade update your project about the build.
+# You probably want this if you want pull requests or commits to show
+# the build status.
+github:
+  token: "5ac3a71595a474215af604f891ed3b858ddcdf45"
